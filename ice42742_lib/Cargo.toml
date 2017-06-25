@@ -1,0 +1,11 @@
+[package]
+name = "ice42742-lib"
+version = "0.1.0"
+authors = ["Benoît Labaere <benoit.labaere@gmail.com>"]
+
+[dependencies]
+libc = "0.2.18"
+
+[dependencies.ice42742-sys]
+path = "./ice42742_sys"
+version = "0.1.0"

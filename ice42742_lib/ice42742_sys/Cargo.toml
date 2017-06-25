@@ -1,0 +1,7 @@
+[package]
+name = "ice42742-sys"
+version = "0.1.0"
+authors = ["Benoît Labaere <benoit.labaere@gmail.com>"]
+
+[dependencies]
+libc = "0.2.18"
